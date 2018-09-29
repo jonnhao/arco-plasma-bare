@@ -192,16 +192,16 @@ gsfonts
 gtk3-print-backends
 gutenprint
 libcups
-hplip
+#hplip
 splix
 system-config-printer
 
 #printer extra for hplip
 #pyqt5-common
-python-pillow
-python-pip
+#python-pillow
+#python-pip
 #python-pyqt5
-python-reportlab
+#python-reportlab
 
 #tumbler
 tumbler
@@ -217,32 +217,32 @@ poppler-qt5
 ###########################
 
 #applications
-atom
+#atom
 #catfish
-chromium
+#chromium
 #compton
 #darktable
 #deadbeef
 #dmenu
 #evolution
 #feh
-firefox
+#firefox
 #flashplugin
-galculator
-geany
-gimp
+#galculator
+#geany
+#gimp
 #gmrun
 #gsimplecal
 #guvcview
 imagemagick
-inkscape
+#inkscape
 #libreoffice-fresh
-meld
+#meld
 #nitrogen
 numlockx
 pragha
 scrot
-simplescreenrecorder
+#simplescreenrecorder
 termite
 #tint2
 #transmission-gtk
@@ -250,8 +250,8 @@ variety
 vlc
 
 #conky
-jq
-lm_sensors
+#jq
+#lm_sensors
 
 #cursors
 #xcursor-simpleandsoft
@@ -259,7 +259,7 @@ lm_sensors
 #fonts
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
-cantarell-fonts
+#cantarell-fonts
 ckbcomp
 noto-fonts
 terminus-font
@@ -301,21 +301,21 @@ arc-gtk-theme
 
 #utilities
 #arandr
-asciinema
+#asciinema
 bash-completion
-baobab
-catfish
+#baobab
+#catfish
 #cmatrix
 #cool-retro-term
 dconf-editor
 dialog
-dmidecode
-evince
+#dmidecode
+#evince
 file-roller
 #filezilla
 git
 gksu
-glances
+#glances
 #gnome-disk-utility
 #gnome-keyring
 #gnome-screenshot
@@ -323,15 +323,15 @@ glances
 #gnome-software-packagekit-plugin
 gparted
 #gpick
-gtop
+#gtop
 hardinfo
-hddtemp
-htop
+#hddtemp
+#htop
 #hunspell
 #hunspell-en
 #hyphen
 #hyphen-en
-grsync
+#grsync
 intltool
 iw
 jsoncpp
@@ -342,7 +342,7 @@ lsb-release
 mlocate
 #nomacs
 p7zip
-plank
+#plank
 #playerctl
 polkit
 #polkit-gnome
@@ -352,24 +352,24 @@ python2-xdg
 #qt5-styleplugins
 #qt5-tools
 #qt5-webkit
-powertop
+#powertop
 reflector
-redshift
+#redshift
 #ristretto
 #rofi
-rxvt-unicode
-simple-scan
+#rxvt-unicode
+#simple-scan
 #shotwell
-speedtest-cli
-timeshift
+#speedtest-cli
+#timeshift
 tlp
 #transmission-cli
-ufw
-gufw
+#ufw
+#gufw
 unace
 unrar
 unzip
-vnstat
+#vnstat
 w3m
 webkit2gtk
 wget
@@ -379,9 +379,9 @@ xapps
 #xdg-desktop-portal-gtk
 #xfburn
 zenity
-zsh
-zsh-completions
-zsh-syntax-highlighting
+#zsh
+#zsh-completions
+#zsh-syntax-highlighting
 
 
 #############################
@@ -408,7 +408,7 @@ ttf-ms-fonts
 
 #icons
 #faba-icon-theme
-halo-icons-git
+#halo-icons-git
 #moka-icon-theme
 numix-circle-arc-icons-git
 numix-icon-theme-git
@@ -419,7 +419,7 @@ sardi-icons
 surfn-icons-git
 
 #network
-b43-firmware
+#b43-firmware
 
 #openbox
 #obkey
@@ -431,11 +431,11 @@ b43-firmware
 mkinitcpio-openswap
 
 #utilities
-aurvote-git
+#aurvote-git
 conky-lua-archers
 downgrade
 #font-manager
-glxinfo
+#glxinfo
 #google-talkplugin
 grub-customizer
 hardcode-fixer-git
@@ -444,24 +444,24 @@ inxi
 mintstick-git
 #mugshot
 neofetch
-oh-my-zsh-git
+#oh-my-zsh-git
 #oomox
-package-query
+#package-query
 pamac-aur
-peek
+#peek
 #pulseaudio-equalizer-ladspa
 #python-pywal
-screenkey
+#screenkey
 sublime-text-dev
-temps
-tmux
+#temps
+#tmux
 trizen
-urxvt-perls
-urxvt-resize-font-git
-wttr
+#urxvt-perls
+#urxvt-resize-font-git
+#wttr
 yad
 yay-bin
-yaourt
+#yaourt
 
 #############################
 #Games
@@ -615,4 +615,4 @@ partitionmanager
 ktorrent
 
 #extra personal
-thunar
+#thunar
