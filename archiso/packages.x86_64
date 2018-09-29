@@ -605,7 +605,7 @@ arcolinuxb-calamares-plasma-git
 
 #Desktop specific
 plasma
-kde-applications-meta
+#kde-applications-meta
 adapta-kde
 arc-kde
 kvantum-theme-adapta
@@ -613,3 +613,17 @@ kvantum-theme-materia
 materia-kde
 partitionmanager
 ktorrent
+
+#Groups
+#kdeaccessibility
+#kdeadmin
+#kdebase
+#kdegraphics
+#kdemultimedia
+#kdenetwork
+#kdepim
+#kdesdk
+#kdeutils
+#kdewebdev
+#kdeconnect
+
