@@ -1,4 +1,4 @@
-# ArcoLinux BYOI Plasma desktop
+# ArcoLinux BYOI Plasma Minimal desktop
 
 # Get your code to build your own iso
 
