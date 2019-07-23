@@ -651,3 +651,4 @@ kdesdk-meta
 #kdeutils-meta
 #kdewebdev-meta
 numix-kde-theme-git
+packagekit-qt5
