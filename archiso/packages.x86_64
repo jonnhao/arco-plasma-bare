@@ -323,7 +323,7 @@ bash-completion
 #catfish
 cronie
 dconf-editor
-#dmidecode
+dmidecode
 #evince
 expac
 file-roller
