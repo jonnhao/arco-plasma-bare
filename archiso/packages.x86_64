@@ -425,6 +425,7 @@ numix-circle-icon-theme-git
 #paper-icon-theme
 sardi-icons
 surfn-icons-git
+surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
 ###network
@@ -775,4 +776,3 @@ kdepim-meta
 kdesdk-meta
 #kdeutils-meta
 #kdewebdev-meta
-
