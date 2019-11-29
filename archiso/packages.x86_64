@@ -389,6 +389,7 @@ webkit2gtk
 wmctrl
 xapps
 #xcape
+xdotool
 #xdg-desktop-portal-gtk
 youtube-dl
 zenity
@@ -424,8 +425,8 @@ numix-icon-theme-git
 numix-circle-icon-theme-git
 #paper-icon-theme
 sardi-icons
-surfn-icons-git
-#surfn-arc-breeze-icons-git
+#surfn-icons-git
+surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
 ###network
@@ -480,7 +481,7 @@ yay-bin
 ###########################################################################
 
 #arcolinux-arc-themes-git
-#arcolinux-arc-kde
+arcolinux-arc-kde
 #arcolinux-arc-themes-nico-git
 arcolinux-bin-git
 #arcolinux-common-git
@@ -745,20 +746,20 @@ xfwm4
 #xfce4-xkb-plugin
 
 #xfce4-panel-profiles
-gtk-engine-murrine
+#gtk-engine-murrine
 
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
 
 plasma
-adapta-kde
-arc-kde
-materia-kde
+#adapta-kde
+#arc-kde
+#materia-kde
 partitionmanager
 ktorrent
 kdeconnect
-numix-kde-theme-git
+#numix-kde-theme-git
 packagekit-qt5
 systemd-kcm
 #kde-applications-meta
