@@ -197,9 +197,9 @@ gvfs
 #gvfs-smb
 mtpfs
 thunar
-thunar-archive-plugin
+#thunar-archive-plugin
 #thunar-media-tags-plugin
-thunar-volman
+#thunar-volman
 udiskie
 udisks2
 xdg-user-dirs
@@ -259,7 +259,7 @@ numlockx
 #qbittorrent
 #scrot
 #simplescreenrecorder
-termite
+#termite
 #tint2
 #variety
 vlc
@@ -430,7 +430,7 @@ mkinitcpio-openswap
 
 ###utilities
 #aurvote-git
-conky-lua-archers
+#conky-lua-archers
 downgrade
 font-manager-git
 #glxinfo
