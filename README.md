@@ -1,8 +1,8 @@
-# ArcoLinux BYOI Plasma Minimal desktop
+# ArcoLinux BYOI Plasma bare desktop
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-plasma-minimal
+	git clone https://github.com/jonnhao/arco-plasma-bare
 
 # Follow installation tutorials on
 
